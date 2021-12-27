@@ -1,0 +1,36 @@
+body {
+  display: block;
+  margin: 0px !important;
+}
+/* text-transform: uppercase; */
+/* padding: a b */ /*a ~ height, b ~ width*/
+.general {
+  color: green;
+}
+
+.banner {
+  height: 1080;
+  width: 100%;
+  background: url("https://gamek.mediacdn.vn/133514250583805952/2020/2/26/photo-1-15827070847125071669.jpeg")
+    center center no-repeat;
+}
+
+.greenBorder {
+  border: 1px solid green;
+}
+.menu {
+  height: 80px;
+  width: 100%;
+}
+
+.anime_film {
+  text-decoration: none;
+  float: right;
+  margin-top: 20;
+  margin-right: 20;
+  font-size: 24;
+  padding: 10px;
+  color: chartreuse;
+  border-radius: 60px;
+  border: 1px solid green;
+}
